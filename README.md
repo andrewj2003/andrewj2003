@@ -2,7 +2,7 @@
   <a href="https://github.com/andrewj2003">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20AJ%20Burke" alt="Hello! I&#39;m AJ Burke" />
   </a>
-</p>
+</p
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=805&height=44&lines=I%20am%20an%20FSU%20CS%20Student%20Graduating%20in%20Spring%20of%202027" alt="Typing headlines" />
